@@ -1,0 +1,60 @@
+body{
+    background-image: url(7.jpg);
+    background-size: cover;
+   
+    
+}
+img{
+    filter: brightness(80%) blur(20%);
+}
+#img1{
+    filter: brightness(80%);
+    width: 100%;
+    height: 420px ;
+}
+.container-grid{
+    display: inline-grid;
+    grid-template-columns: 287px 77%;
+    
+}
+.grid-item{
+     background-color: ;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+    border-width: thick;
+}
+.down_design{
+    background-color: white;
+    height:38%;
+    width: 100%;
+    box-shadow: -2px -2px 2px 2px orange;
+}
+.hospital_img{
+    height: 100%;
+    width: 50%;
+    filter: brightness(80%) blur(20%);
+    border-radius: 10%;
+    padding: 6px;
+}
+#btn1{
+    width:30%;
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px 5px green;
+}
+#btn2{
+    margin-left: 9px;
+    width:23%;
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px 5px orange;
+    color: white;
+}
+.fag{
+    height: 20%;
+    width: 20%;
+    filter: brightness(80%) blur(20%);
+}
+.call{
+    text-decoration: none;
+    color: white;
+}
